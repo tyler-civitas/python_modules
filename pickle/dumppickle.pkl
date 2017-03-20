@@ -1,0 +1,16 @@
+ccopy_reg
+_reconstructor
+p0
+(c__main__
+TestClass
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+.(lp0
+I1
+aI2
+aI3
+a.
